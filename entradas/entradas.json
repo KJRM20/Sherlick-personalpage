@@ -1,0 +1,23 @@
+[
+    {
+        "titulo": "Título del Blog 1",
+        "resumen": "Resumen corto de la entrada de blog 1...",
+        "imagen": "entradas/assets/entrada1.jpg",
+        "fecha": "2024-11-30",
+        "link": "entradas/entrada1.html"
+    },
+    {
+        "titulo": "Título del Blog 2",
+        "resumen": "Resumen corto de la entrada de blog 2...",
+        "imagen": "entradas/assets/entrada2.jpg",
+        "fecha": "2024-12-01",
+        "link": "entradas/entrada2.html"
+    },
+    {
+        "titulo": "Título del Blog 3",
+        "resumen": "Resumen corto de la entrada de blog 3...",
+        "imagen": "entradas/assets/entrada3.jpg",
+        "fecha": "2024-12-02",
+        "link": "entradas/entrada3.html"
+    }
+]

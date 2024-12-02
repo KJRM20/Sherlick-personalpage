@@ -1,0 +1,12 @@
+[
+    {
+        "titulo": "Título del PDF 1",
+        "resumen": "Descripción breve 1...",
+        "link": "descargables/archivo1.pdf"
+    },
+    {
+        "titulo": "Título del PDF 2",
+        "resumen": "Descripción breve 2...",
+        "link": "descargables/archivo2.pdf"
+    }
+]
