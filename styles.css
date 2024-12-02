@@ -328,6 +328,7 @@ section {
 #blog-recientes, #servicios, #descargables, #contacto {
     margin: 1rem 0;
     border-radius: 10px;
+    background-color: #fff;
 }
 
 .titulo{
