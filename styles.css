@@ -308,13 +308,19 @@ nav.dark-text .btn:hover {
 
     #presentacion img {
         height: 30%;
-    }
+    } 
 }
 
 /* Secciones (blog, servicios, contacto) */
 section {
     padding: 3rem 5rem;
     background-color: #fff;
+}
+
+@media (max-width: 768px) {
+    section{
+        padding: 3rem 2rem;
+    }
 }
 
 .top-separator{
@@ -410,6 +416,10 @@ section {
 }
 
 /*Articulo entry*/
+#article{
+    background-color: #fff;
+}
+
 .back-btn{
     color: #355834;
     font-size: 1.5rem;
